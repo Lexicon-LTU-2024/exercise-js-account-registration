@@ -33,4 +33,5 @@ This object is to be written to the console or written in an alert. The values s
 
 9. I would like that you also focus on writing clean code and use decent, thought-through, stylings.
 
-<figure><img src="example-img.png"></figure>
+<figure style="text-align: center;"><img src="example-img.png">
+<figcaption>Example</figcaption></figure>
